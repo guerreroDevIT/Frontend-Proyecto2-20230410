@@ -1,0 +1,9 @@
+{
+  "name":"Pedro Pérez",
+  "profesion1":"Diseñador Gráfico",
+  "profesion2":"Desarrollador Web",
+  "profesion3":"Ilustrador",
+  "image":{
+    "miFoto":"/assets/assets/img/avataaars.svg"
+  }
+}
